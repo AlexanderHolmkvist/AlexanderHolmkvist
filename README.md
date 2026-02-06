@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlexanderHolmkvist
-- 👀 I’m interested in education, fitness and gaming.
-- 🌱 I’m currently learning the basics, HTML/CSS/JAVASCRIPT
-- 💞️ I’m looking to collaborate on projects to educate myself
-- 📫 How to reach me: email: alexanderholmkvist@outlook.com
+I'm an IT & Innovation bachelor student focused on building end-to-end digital products - from code to UI/UX and brand. Alongside my studies, I develop mobile and web solutions with React + TypeScript (and Expo where relevant), prioritizing usability, consistency, and clean design systems.
+
+With a background in digital marketing and analytics, I combine product thinking with measurable improvement - from user journeys and positioning to conversion-focused iteration.
+
+Currently building and shipping projects through Primestreak.
 
 <!---
 AlexanderHolmkvist/AlexanderHolmkvist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
